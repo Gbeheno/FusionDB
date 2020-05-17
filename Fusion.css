@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+     margin: 0;
+}
+
+body{
+    font-size: 16px;
+}
+
+
+/* Home Section */
+.section-home{
+    padding: 50px;
+    background-color: #fff;
+}
+
+.heading-title{
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.heading-text{
+    margin-bottom: 30px;
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+.btn-download{
+    background-color: orangered;
+    color: white;
+}
+
+.btn-learn{
+    background-color: white;
+    color: orangered;
+}
+
+/* Services Section */
+.section-services{
+    padding: 50px;
+    background-color: #fff; 
+    text-align: center;
+}
+
+.services-heading{
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+.services-table{
+    margin: 60px auto;
+}
+
+.services-table-element{
+    padding-right: 30px;
+}
+
+/* Section Statistics */
+.section-statistics{
+    padding: 50px;
+    background-color: #eee; 
+}
+
+.section-statistics-intro{
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+
+.statistics-text{
+    padding-right: 60px;
+}
+
+/* Section Contact */
+.section-contact{
+    padding: 50px;
+    background-color: #fff; 
+}
+
+.contact-heading{
+    text-align: center;
+}
+
+.contact-form{
+    margin-top: 50px;
+}
+
+.input-name{
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+.input-subject{
+    margin-bottom: 30px; 
+}
+
+.input-message{
+    margin-bottom: 30px;
+}
